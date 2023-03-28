@@ -1,4 +1,4 @@
-<h2 style="text-align: center"> Lesson One Assignment</h2>
+<h2 style="text-align: center"> Lesson Two Assignment</h2>
 
 ### The questions are in the [pdf](Assignment2.pdf).
 
