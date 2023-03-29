@@ -34,4 +34,4 @@ Allow the operations of addition, subtraction, multiplication, and division.
 When the user clicks a button for an operation, the following occurs: 
 the operation is performed, the "Result" text field is updated, and the "Operand" text field is cleared. 
 Include a button labeled "Reset" that resets the "Result" to 0.0. Also
-include a button labeled "Clear" that resets the "Operand" text field so it is blank.
+Include a button labeled "Clear" that resets the "Operand" text field so it is blank.
